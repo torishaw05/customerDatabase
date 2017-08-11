@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  font-family: sans-serif;
+}
+h1 {
+  color: white;
+  font-size: 40px;
+  font-family:monospace;
+}
+.line {
+  display: flex;
+  color: white;
+  justify-content: center;
+}
+  div{
+    width: 250px;
+    margin: 1px;
+    display: block;
+
+}
+#directory{
+  display: flex;
+  flex-flow: row wrap;
+  width: 999px;
+  justify-content: center;
+  margin-left: 150px;
+  color: white;
+  font-size: 15px;
+  font-family: monospace;
+
+}
